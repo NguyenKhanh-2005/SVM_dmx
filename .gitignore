@@ -9,14 +9,14 @@ env/
 .env
 
 # File mô hình đã train (có thể tạo lại bằng python main.py)
-models/*.joblib
-models/*.npz
-models/*.pkl
+# models/*.joblib
+# models/*.npz
+# models/*.pkl
 
-# Kết quả thực nghiệm (có thể tạo lại bằng python main.py)
-results/*.png
-results/*.csv
-results/*.txt
+# # Kết quả thực nghiệm (có thể tạo lại bằng python main.py)
+# results/*.png
+# results/*.csv
+# results/*.txt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
